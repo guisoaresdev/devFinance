@@ -2,7 +2,7 @@
 
 The devFinance is a SPA done initially with raw HTML5, CSS3, Javascript.
 
-Recently refactored to React, NodeJS, Express.js and MongoDB.
+Recently refactored to React, NestJS and PostgreSQL.
 
 
 
